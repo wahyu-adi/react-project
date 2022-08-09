@@ -1,0 +1,59 @@
+.intro {
+  background-image: url(../src/img/home.png);
+  width: 100%;
+  height: 85vh;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+/* hiro */
+
+.kartu {
+  background-color: aqua;
+  height: 5rem;
+  border-radius: 6px;
+  padding-left: 7rem;
+}
+
+.hiro {
+  background-color: #fff;
+  margin-top: -3rem;
+}
+@media (min-width: 992px) {
+  .kartu {
+    margin-top: -3rem;
+  }
+}
+/* akhir hiro */
+
+/* content */
+.Content {
+  margin-top: 3rem;
+}
+.kartu1 {
+  background-color: rgb(100, 149, 255);
+  height: 12rem;
+  border-radius: 6px;
+  padding-left: 7rem;
+}
+.kartu2 {
+  background-color: rgb(16, 27, 124);
+  height: 5rem;
+  border-radius: 6px;
+  padding-left: 7rem;
+}
+.kartuW {
+  background-color: rgb(255, 255, 255);
+  height: 5rem;
+  border-radius: 6px;
+  padding-left: 7rem;
+}
+
+/* akhir content */
+/* footer */
+.footer {
+  background-color: aqua;
+  margin-top: 3rem;
+  margin-bottom: -2rem;
+  text-align: center;
+}
